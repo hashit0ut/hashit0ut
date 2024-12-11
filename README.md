@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashit0ut&label=Profile%20views&color=0e75b6&style=flat" alt="hashit0ut" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hashit0ut" alt="hashit0ut" /></a> </p>
-<img
+
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <span></span>
