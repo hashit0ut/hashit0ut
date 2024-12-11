@@ -45,4 +45,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashit0ut&show_icons=true&locale=en" alt="hashit0ut" /></p>
 
+![snake gif](https://github.com/hashit0ut/hashit0ut/blob/output/snake.svg)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashit0ut&" alt="hashit0ut" /></p>
